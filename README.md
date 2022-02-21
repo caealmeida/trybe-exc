@@ -1,13 +1,14 @@
 # *Trybe Exercises*
 
-### Bem vindo ao repositório de exercícios Trybe! Este repositório contém todos exercícios desenvolvidos por *[Caetano Almeida](https://www.linkedin.com/in/caealmeida/)* durante o curso na *[Trybe](https://www.betrybe.com/)* :rocket:  
----
+### Bem vindo ao repositório de exercícios Trybe! 
+### Este repositório contém todos exercícios desenvolvidos por *[Caetano Almeida](https://www.linkedin.com/in/caealmeida/)* durante o curso na *[Trybe](https://www.betrybe.com/)* 🚀
+--- 
 
 ### O repositório esta organizado da seguinte forma:
-    Fundamentos :memo:
-    Front-end :hourglass_flowing_sand:	
-    Back-end :hourglass_flowing_sand:	
-    Ciência da Computação :hourglass_flowing_sand:	
+    *[Fundamentos](https://github.com/caealmeida/trybe-exc/tree/master/1-fundamentos)* 📝
+    Front-end ⏳
+    Back-end ⏳
+    Ciência da Computação ⏳
 
 
 ### Obrigado pela visita! Vou seguir ~Passando raiva e~ aprendendo...
