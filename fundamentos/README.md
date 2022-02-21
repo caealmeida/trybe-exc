@@ -1,6 +1,6 @@
 # Fundamentos do Desenvolvimento Web
 
-### Este repositório contém todas as atividades de *Fundamentos do Desenvolvimento Web* desenvolvidas por _[Caetano Almeida](https://linkedin.com/in/caealmeida)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+### *Este repositório contém todas as atividades de **Fundamentos do Desenvolvimento Web** desenvolvidas por _[Caetano Almeida](https://linkedin.com/in/caealmeida)_ enquanto estudava na [Trybe](https://www.betrybe.com/)* :rocket:
 ---
 
 ### Bloco 1: Unix & Bash :white_check_mark:
