@@ -5,10 +5,10 @@
 --- 
 
 ### O repositório esta organizado da seguinte forma:
-    *[Fundamentos](https://github.com/caealmeida/trybe-exc/tree/master/1-fundamentos)* 📝
-    Front-end ⏳
-    Back-end ⏳
-    Ciência da Computação ⏳
+*[Fundamentos](https://github.com/caealmeida/trybe-exc/tree/master/1-fundamentos)* 📝
+Front-end ⏳
+Back-end ⏳
+Ciência da Computação ⏳
 
 
 ### Obrigado pela visita! Vou seguir ~Passando raiva e~ aprendendo...
