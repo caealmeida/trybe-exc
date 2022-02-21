@@ -1,6 +1,6 @@
 # *Trybe Exercises*
-=================================================
-Bem vindo ao repositório de exercícios Trybe! Este repositório contém todos exercícios desenvolvidos por *[Caetano Almeida](https://www.linkedin.com/in/caealmeida/)* durante o curso na *[Trybe](https://www.betrybe.com/)* :rocket:  
+
+### Bem vindo ao repositório de exercícios Trybe! Este repositório contém todos exercícios desenvolvidos por *[Caetano Almeida](https://www.linkedin.com/in/caealmeida/)* durante o curso na *[Trybe](https://www.betrybe.com/)* :rocket:  
 ---
 
 ### O repositório esta organizado da seguinte forma:
@@ -16,4 +16,3 @@ Bem vindo ao repositório de exercícios Trybe! Este repositório contém todos 
 ---
 
 ###### :briefcase: [LinkedIn](https://linkedin.com/in/caealmeida)
-# =================================================
