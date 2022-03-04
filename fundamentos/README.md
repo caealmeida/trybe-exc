@@ -10,7 +10,7 @@
 - [X] 1-3: _Unix & Bash - Parte 1_
 - [X] 1-4: _Unix & Bash - Parte 2_
 
-### Bloco 2: Git, GitHub & Internet 
+### Bloco 2: Git, GitHub & Internet :white_check_mark:
 
 - [X] 2-1: _Git & GitHub - O que é e para que serve_
 - [X] 2-2: _Git & GitHub - Entendendo os comandos_
