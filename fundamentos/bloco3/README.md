@@ -1,4 +1,4 @@
-# Bloco 3: Introdução à HTML & CSS
+# Bloco 3: Introdução à HTML & CSS :white_check_mark:
 ---
 
 - [X] 3-1: _Introdução - HTML & CSS_
