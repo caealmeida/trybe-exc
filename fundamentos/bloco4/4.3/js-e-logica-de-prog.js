@@ -48,24 +48,117 @@ let array = ["java", "javascript", "python", "html", "css"];
 // 4- Um número primo é aquele divisível apenas por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que
 // retorne o maior número primo entre 0 e 50.
 
-const parametro = 50;
+// const parametro = 50;
 // let primos = [];
-let maiorPrimo = 0;
+// let maiorPrimo = 0;
 
-for (let i = parametro; i > 1; i -= 1) {
-	let ehPrimo = true;
-	for (let j = 2; j < i; j += 1) {
-		if (i % j === 0) {
-			ehPrimo = false;
-			break;
-		}
-	}
-	if (ehPrimo) {
-		maiorPrimo = i;
-		break;
-		// primos.push(i);
-	}
-}
+// for (let i = parametro; i > 1; i -= 1) {
+// 	let ehPrimo = true;
+// 	for (let j = 2; j < i; j += 1) {
+// 		if (i % j === 0) {
+// 			ehPrimo = false;
+// 			break;
+// 		}
+// 	}
+// 	if (ehPrimo) {
+// 		maiorPrimo = i;
+// 		break;
+// primos.push(i);
+// 	}
+// }
 
 // console.log(primos);
-console.log("Maior primo é: " + maiorPrimo);
+// console.log("Maior primo é: " + maiorPrimo);
+
+//
+// BONUS ****************************************************
+// 1- Agora vamos trabalhar com algumas formas geométricas! Faça um programa que, dado um valor n qualquer,
+// seja n > 1 , imprima na tela um quadrado feito de asteriscos de lado de tamanho n.
+
+const parametro = 7;
+let result = "";
+
+// for (let i = 0; i < parametro; i += 1) {
+// 	for (let j = 0; j < parametro; j += 1) {
+// 		result += "*";
+// 	}
+// 	result += "\n";
+// }
+
+// console.log(result);
+
+// 2- Para o segundo exercício, faça o mesmo que antes, mas que imprima um triângulo retângulo com 5 asteriscos
+// de base.
+
+// for (let i = 0; i < parametro; i += 1) {
+// 	for (j = 0; j < i + 1; j += 1) {
+// 		result += "*";
+// 	}
+// 	result += "\n";
+// }
+
+// console.log(result);
+
+// 3- Agora inverta o lado do triângulo.
+
+// for (let i = 0; i <= parametro; i += 1) {
+// 	for (j = 0; j < parametro; j += 1) {
+// 		if (j < parametro - i) {
+// 			result += ".";
+// 		} else {
+// 			result += "*";
+// 		}
+// 	}
+// 	result += "\n";
+// }
+
+// console.log(result);
+
+// 4- Por fim, faça uma pirâmide com n asteriscos de base
+
+// for (let i = 0; i <= parametro; i += 1) {
+// 	for (j = 0; j < i; j += 1) {
+// 		if (j < parametro - i) {
+// 			result += " ";
+// 		} else {
+// 			result += "*";
+// 		}
+// 	}
+// 	result += "\n";
+// }
+
+// console.log(result);
+
+// 5- Faça uma pirâmide com n asteriscos de base, que seja vazia no meio
+
+//TODO:
+// for (let i = 0; i <= parametro; i += 1) {
+// 	for (j = 0; j < i; j += 1) {
+// 		if (j < parametro - i) {
+// 			result += " ";
+// 		} else {
+// 			result += "*";
+// 		}
+// 	}
+// 	result += "\n";
+// }
+
+// console.log(result);
+
+// 6- Faça um programa que diz se um número definido numa variável é primo ou não.
+
+// const numero = 10;
+// let ehPrimo = true;
+
+// for (let i = 2; i < numero; i += 1) {
+// 	if (numero % i === 0) {
+// 		ehPrimo = false;
+// 		break;
+// 	}
+// }
+
+// if (ehPrimo) {
+// 	console.log("É primo");
+// } else {
+// 	console.log("Não é primo");
+// }
