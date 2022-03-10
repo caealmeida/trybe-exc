@@ -47,7 +47,7 @@
 // 4. Desenvolva um algoritmo que verifica se a pessoa é maior ou menor de idade.
 // Imprima no console seguindo o exemplo: “A pessoa é maior de idade”.
 
-let idade = Math.floor(Math.random() * (110 - 0) + 1);
+// let idade = Math.floor(Math.random() * (110 - 0) + 1);
 
 // console.log(idade);
 // if (idade >= 18) {
