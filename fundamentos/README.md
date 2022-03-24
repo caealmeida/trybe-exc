@@ -23,7 +23,7 @@
 - [X] 3-2: _HTML & CSS - Primeiros  passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - Lessons Learned]()_
+- [X] 3-5: _[Projeto - Lessons Learned](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/1-lessons-learned)_
 
 ### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
@@ -32,20 +32,19 @@
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/2-playground-functions)_
 
 ### Bloco 5: JavaScript DOM, Eventos e Web Storage
 
 - [X] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Fundamentos - JavaScript - Projetos_
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _(Bônus)[Projeto - Meme Generator]()_
-- [ ] 5-7: _(Bônus)[Projeto - Adivinhe a Cor]()_
+- [X] 5-2: _JavaScript - Trabalhando com elementos_
+- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-4: _JavaScript - Web Storage_
+- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/3-pixels-art)_
+- [X] 5-6: _[Projeto - Lista de tarefas](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/4-todo-list)_
+- [X] 5-7: _(Bônus)[Projeto - Meme Generator](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/5-meme-generator)_
 - [ ] 5-7: _(Bônus)[Projeto - Carta Misteriosa]()_
+- [ ] 5-7: _(Bônus)[Projeto - Adivinhe a Cor]()_
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
