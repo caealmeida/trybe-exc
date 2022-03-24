@@ -11,4 +11,8 @@
 
 ---
 
+![banner](https://user-images.githubusercontent.com/17756190/155887132-cd0407d7-f198-45ce-bf85-b7f41e266c3a.gif)
+
+---
+
 ###### :briefcase: [LinkedIn](https://linkedin.com/in/caealmeida)
