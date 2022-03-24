@@ -78,6 +78,11 @@
 - [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9-3: _Jest - Testes Assíncronos_
 - [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+
+---
+
+![banner](https://user-images.githubusercontent.com/17756190/155887132-cd0407d7-f198-45ce-bf85-b7f41e266c3a.gif)
+
 ---
 
 ###### :briefcase: [LinkedIn](https://linkedin.com/in/caealmeida)
