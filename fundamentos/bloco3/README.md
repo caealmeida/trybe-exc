@@ -6,6 +6,6 @@
 - [X] 3-2: _HTML & CSS - Primeiros  passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - Lessons Learned]()_
+- [X] 3-5: _[Projeto - Lessons Learned](https://github.com/caealmeida/trybe-proj/tree/main/fundamentos/1-lessons-learned)_
 ---
 ###### :briefcase: [LinkedIn](https://linkedin.com/in/caealmeida)
